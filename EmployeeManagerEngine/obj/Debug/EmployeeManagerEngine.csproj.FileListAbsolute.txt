@@ -1,0 +1,9 @@
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\bin\Debug\EmployeeManagerEngine.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\bin\Debug\EmployeeManagerEngine.pdb
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\bin\Debug\EmployeeManagerCommon.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\bin\Debug\EmployeeManagerCommon.pdb
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\obj\Debug\EmployeeManagerEngine.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\obj\Debug\EmployeeManagerEngine.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\obj\Debug\EmployeeManagerEngine.csproj.CopyComplete
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\obj\Debug\EmployeeManagerEngine.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerEngine\obj\Debug\EmployeeManagerEngine.pdb

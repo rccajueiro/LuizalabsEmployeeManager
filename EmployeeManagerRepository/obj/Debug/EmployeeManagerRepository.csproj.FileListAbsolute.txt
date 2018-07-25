@@ -1,0 +1,16 @@
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EmployeeManagerRepository.dll.config
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EmployeeManagerRepository.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EmployeeManagerRepository.pdb
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EntityFramework.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EntityFramework.xml
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\obj\Debug\EmployeeManagerRepository.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\obj\Debug\EmployeeManagerRepository.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\obj\Debug\EmployeeManagerRepository.csproj.CopyComplete
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\obj\Debug\EmployeeManagerRepository.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\obj\Debug\EmployeeManagerRepository.pdb
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EmployeeManagerEngine.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EmployeeManagerCommon.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EmployeeManagerEngine.pdb
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerRepository\bin\Debug\EmployeeManagerCommon.pdb

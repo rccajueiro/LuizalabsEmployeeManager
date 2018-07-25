@@ -1,0 +1,6 @@
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerCommon\bin\Debug\EmployeeManagerCommon.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerCommon\bin\Debug\EmployeeManagerCommon.pdb
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerCommon\obj\Debug\EmployeeManagerCommon.csprojAssemblyReference.cache
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerCommon\obj\Debug\EmployeeManagerCommon.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerCommon\obj\Debug\EmployeeManagerCommon.dll
+C:\Users\Ricardo\Documents\Projects\Luizalabs\EmployeeManager\EmployeeManagerCommon\obj\Debug\EmployeeManagerCommon.pdb
